@@ -1,6 +1,7 @@
 # English-Phonemes
 A list of the 44 most common english phonemes
 
+## Consonants  
 /p/ as in "pat"  
 /b/ as in "bat"  
 /t/ as in "tap"  
@@ -24,6 +25,7 @@ A list of the 44 most common english phonemes
 /j/ as in "yacht"  
 /w/ as in "wet"  
 
+## Vowels  
 /i/ as in "beet"  
 /ɪ/ as in "bit"  
 /e/ as in "bait"  
