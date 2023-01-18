@@ -2,12 +2,12 @@
 A list of the 44 most common english phonemes
 
 ## Consonants  
-/b/ as in "bat"   	
+/b/ as in "bat"  
 /d/ as in "dog"  
 /f/ as in "fish"  
 /g/ as in "go"  
 /h/ as in "hat"  
-/j/ as in "jump, budget"  	
+/j/ as in "jump, budget"  
 /k/ as in "cat"  
 /l/ as in "lip"  
 /m/ as in "mat"  
